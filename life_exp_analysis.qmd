@@ -1,0 +1,17 @@
+---
+title: "life_exp_analysis"
+author: "Komal"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+library(gapminder)
+```
+
+\# Abstract
+
+Here, I re-examine the analysis of Oeppen and Vaupel (2002).
+
+# Analysis
